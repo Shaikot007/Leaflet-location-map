@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Leaflet-location-map/static/css/main.d948598d.chunk.css",
+    "main.js": "/Leaflet-location-map/static/js/main.b091c1c0.chunk.js",
+    "main.js.map": "/Leaflet-location-map/static/js/main.b091c1c0.chunk.js.map",
+    "runtime-main.js": "/Leaflet-location-map/static/js/runtime-main.c29a8a03.js",
+    "runtime-main.js.map": "/Leaflet-location-map/static/js/runtime-main.c29a8a03.js.map",
+    "static/js/2.6c91c587.chunk.js": "/Leaflet-location-map/static/js/2.6c91c587.chunk.js",
+    "static/js/2.6c91c587.chunk.js.map": "/Leaflet-location-map/static/js/2.6c91c587.chunk.js.map",
+    "static/js/3.b8a13b41.chunk.js": "/Leaflet-location-map/static/js/3.b8a13b41.chunk.js",
+    "static/js/3.b8a13b41.chunk.js.map": "/Leaflet-location-map/static/js/3.b8a13b41.chunk.js.map",
+    "index.html": "/Leaflet-location-map/index.html",
+    "static/css/main.d948598d.chunk.css.map": "/Leaflet-location-map/static/css/main.d948598d.chunk.css.map",
+    "static/js/2.6c91c587.chunk.js.LICENSE.txt": "/Leaflet-location-map/static/js/2.6c91c587.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c29a8a03.js",
+    "static/js/2.6c91c587.chunk.js",
+    "static/css/main.d948598d.chunk.css",
+    "static/js/main.b091c1c0.chunk.js"
+  ]
+}
